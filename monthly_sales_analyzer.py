@@ -121,7 +121,7 @@ for dia, total in mejores_dias:
     print(f"Día {dia} con {total} ventas.")
 #Calculamos el maximo y minimo de las ventas
 rango_product_a = sales_range(sales_data, "product_a")
-print(f"Rango de ventan para product_a:{rango_product_a}")
+print(f"Rango de ventas para product_a:{rango_product_a}")
 
 
 
